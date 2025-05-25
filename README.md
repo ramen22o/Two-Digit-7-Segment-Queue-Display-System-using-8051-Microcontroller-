@@ -1,0 +1,2 @@
+# Two-Digit-7-Segment-Queue-Display-System-using-8051-Microcontroller-
+This project automates queueing using AT89C51, featuring a 2-digit 7-segment display (00-99) &amp; LED "SERVING" sign. Push-button increments queue, reset button restarts. Ground-controlled, LM7812-powered, it reduces wait times &amp; staff workload in high-traffic areas. Scalable for wireless upgrades. Low-power, cost-effective.
